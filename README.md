@@ -1,4 +1,4 @@
-# Apuntes de Periodismo de Datos 
+# Apuntes de Periodismo de Datos 2022 
 ## Web 
 Se compone de tres tecnologías 
 1. HTML (contenido)
